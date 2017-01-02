@@ -1,4 +1,4 @@
-def dictsort_by(d, order, items = False, skip=True):
+def dictsort_by(d, order, items=False, skip=True):
     """
         Iterate a dict in order. If k from order not found in d yield rest of d elements.
     :param d: dict to iterate.
